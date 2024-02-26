@@ -1,5 +1,10 @@
 # Weather App
 
+## Screen Shots
+
+![weather](https://github.com/abhay0933/Weather-app-react/assets/127731916/f19b05a2-fa21-40f7-8dd6-9c88ed97a933)
+
+
 ## Overview
 The Weather App is a React-based web application that provides users with real-time weather information based on their location. It integrates with a weather API to fetch accurate weather data and displays it in an intuitive and user-friendly interface.
 
